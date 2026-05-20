@@ -131,10 +131,15 @@ Handles all user selections:
 ## 👩‍💻 Author
 
 **Hager Atef**  
-Aspiring Software Developer | Passionate about building real-world applications 🚀  
+Aspiring Software Developer 🚀  
+Passionate about building real-world projects and improving my programming skills.
 
 ---
 
-## ⭐ Support
+## 📌 Future Improvements
 
-If you like this project, please consider giving it a ⭐ on GitHub.
+- Add AI opponent (Single Player Mode)
+- Add score tracking system
+- Improve UI/UX design
+- Add animations and sound effects
+
