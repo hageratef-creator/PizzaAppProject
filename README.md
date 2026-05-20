@@ -90,16 +90,22 @@ Handles all user selections:
 
 ---
 
+## 🎥 Project Demo Video
+
+[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](PizzaAppProjectC#.mp4)
+
+---
+
 ## 📸 Screenshots
 
 ### Welcome Form  
-(Add screenshot here)
+![Welcome](images/Picture1.png)
 
 ### Order Form  
-(Add screenshot here)
+![Welcome](images/Picture2.png)
 
-### Order Summary  
-(Add screenshot here)
+### Order Form  
+![Welcome](images/Picture3.png)
 
 ---
 
